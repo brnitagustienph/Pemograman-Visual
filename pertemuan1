@@ -1,0 +1,40 @@
+1. Pengertian Visual Programming
+Visual Programming merupakan metode pemrograman yang memungkinkan pembuatan program melalui penyusunan elemen visual, seperti blok, diagram, dan komponen grafis, yang digunakan untuk menggambarkan struktur serta logika program.
+
+2. Karakteristik Visual Programming
+- Logika program ditampilkan dalam bentuk blok, diagram, atau elemen grafis yang dihubungkan berdasarkan urutan dan alur program.
+- Penyusunan komponen program dan antarmuka dilakukan melalui drag-and-drop, sehingga proses perancangan menjadi lebih mudah dan intuitif.
+- Perubahan pada desain maupun struktur program dapat dilihat secara langsung, sehingga proses evaluasi dan pengembangan lebih mudah dilakukan.
+
+3. Tujuan dan Manfaat Visual Programming
+- Membantu pengguna memahami dasar-dasar pemrograman dengan lebih mudah.
+- Menggambarkan alur program dalam bentuk visual yang terorganisir.
+- Menjadi tahap persiapan bagi pengguna sebelum mempelajari penulisan sintaks kode.
+- Mengurangi kemungkinan terjadinya kesalahan dalam penulisan kode.
+
+4. Keterbatasan Visual Programming
+- Fleksibilitas dalam pengembangan terbatas.
+- Kurang optimal untuk menangani proyek berskala besar.
+- Pengguna bergantung pada platform yang digunakan.
+
+5. Platform Visual Programming
+Platform	Keterangan
+Scratch	Pemrograman menggunakan blok yang disusun untuk mengendalikan karakter (sprite) pada stage.
+MIT App Inventor	Pemrograman berbasis blok untuk mengembangkan aplikasi melalui tampilan blok dan viewer.
+Visual Basic	Pemrograman menggunakan IDE yang dikembangkan Microsoft untuk membuat aplikasi dengan pendekatan visual.
+JavaFX	Pembuatan antarmuka menggunakan Scene Builder melalui komponen visual dan panel properti.
+
+
+6. Visual Basic
+Visual Basic merupakan bahasa pemrograman yang dikembangkan Microsoft dan dilengkapi Integrated Development Environment (IDE) untuk membuat aplikasi menggunakan pendekatan visual.
+
+7. Visual Studio
+Visual Studio merupakan Integrated Development Environment (IDE) buatan Microsoft yang berfungsi untuk menulis, mengubah, menjalankan, serta melakukan debugging pada program.
+
+8. .NET
+.NET merupakan platform sekaligus kerangka kerja pengembangan aplikasi yang bersifat multiplatform dan open-source, dikembangkan oleh Microsoft, serta mendukung penggunaan berbagai bahasa pemrograman.
+
+Bahasa pemrograman yang didukung .NET:
+- C#
+- F#
+- VB.NET
